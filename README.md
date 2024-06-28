@@ -1,3 +1,3 @@
 # apnagit-repo
 first repo
-author - sameer more
+author - sameer more(7)
